@@ -1,5 +1,8 @@
 # Dijkstra_Algorithm
 Implementation of Dijkstra algorithm for robot path planning
+<p align="center">
+  <img src="https://github.com/Pruthvi-Sanghavi/Dijkstra_Algorithm/blob/main/result/result_point.png">
+</p>
 
 ## For execution in windows
 ### Dependencies
