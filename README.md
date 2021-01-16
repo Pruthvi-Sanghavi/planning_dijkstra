@@ -46,3 +46,7 @@ python Djikstra_rigid.py (for rigid robot)
 - Enter the starting coordinates separated by spaces
 - Enter the goal coordinates separated by spaces
 - Hit enter
+
+#### TODO
+1. [ ] Add unit tests
+2. [ ] ROS Implementation
