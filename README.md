@@ -1,4 +1,6 @@
 # Dijkstra_Algorithm
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Implementation of Dijkstra algorithm for robot path planning
 <p align="center">
   <img src="https://github.com/Pruthvi-Sanghavi/Dijkstra_Algorithm/blob/main/result/result_point.png">
