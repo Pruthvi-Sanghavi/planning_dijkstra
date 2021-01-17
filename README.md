@@ -48,5 +48,7 @@ python Djikstra_rigid.py (for rigid robot)
 - Hit enter
 
 #### TODO
+
 1. [ ] Add unit tests
-2. [ ] ROS Implementation
+2. [ ] Check Linux Implementation
+3. [ ] ROS Implementation
